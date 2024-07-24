@@ -1,6 +1,10 @@
 # TP-Link-XZ000-G3-v1-Info
 This repo contains info about the settings available in TP-Link XZ000-G3 v1 Gigabit GPON Terminal.
 
+Product Page: [Global Site](https://service-provider.tp-link.com/gpon/xz000-g3), [India Site](https://www.tp-link.com/in/service-provider/gpon/xz000-g3/)
+
+Brazilian Firmware: [Link](https://www.tp-link.com/br/support/download/xz000-g3/)
+
 ### Settings Summary: 
 
 |S.No.| Setting URL                      | Available/Hidden        | Usage           																					| Screenshot  |
